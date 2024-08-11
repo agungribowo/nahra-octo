@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SafeFunDz</title>
+    <title>Nahra Sejahtera Bersama</title>
 
     <!-- Logo -->
     <link rel="shortcut icon" href="assets/img/faveicon.png" type="image/x-icon">
@@ -83,12 +83,12 @@
                             <a class="nav-link menu__list-link" href="contact.html">contact</a>
                         </li>
                     </ul>
-                    <div class="d-sm-flex d-lg-block gap-4 mt-3 mt-lg-0">
+                    <!-- <div class="d-sm-flex d-lg-block gap-4 mt-3 mt-lg-0">
                         <a href="singin.html" class="btn menu__btn menu__btn-in mb-3 mb-lg-0">sign
                             in</a>
                         <a href="signup.html" class="btn menu__btn menu__btn-up mb-3 mb-lg-0">sign
                             up</a>
-                    </div>
+                    </div> -->
 
                 </div>
             </div>
