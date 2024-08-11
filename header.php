@@ -40,29 +40,21 @@
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav m-auto menu__list my-3 my-lg-0">
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle menu__list-link menu__list-link--active" href="home-1.html#"
+                            <a class="nav-item menu__list-link--active" href="#"
                                 id="navbarDrop" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                home
-                            </a>
-                            <ul class="dropdown-menu menu__list-dropdown--ul overflow-hidden"
-                                aria-labelledby="navbarDrop">
-                                <li><a class="dropdown-item" href="index.html">home</a></li>
-                                <li><a class="dropdown-item" href="home-1.html">home one</a></li>
-                                <li><a class="dropdown-item" href="home-2.html">home two</a></li>
-                                <li><a class="dropdown-item" href="home-3.html">home three</a></li>
-                                <li><a class="dropdown-item" href="home-4.html">home Four</a></li>
-                            </ul>
+                                Home
+                            </a>                            
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link menu__list-link" href="about.html">about us</a>
+                            <a class="nav-link menu__list-link" href="about.html">Tentang</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link menu__list-link" href="cases.html">cases</a>
-                        </li>
+                        <!-- <li class="nav-item">
+                            <a class="nav-link menu__list-link" href="cases.html">Layanan</a>
+                        </li> -->
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle menu__list-link" href="home-1.html#" id="navbarDropdown"
                                 role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                pages
+                                Layanan
                             </a>
                             <ul class="dropdown-menu menu__list-dropdown--ul" aria-labelledby="navbarDropdown">
                                 <li><a class="dropdown-item" href="single-cases.html">single cases</a></li>
@@ -76,11 +68,11 @@
                                 <li><a class="dropdown-item" href="error.html">error</a></li>
                             </ul>
                         </li>
-                        <li class="nav-item">
+                        <!-- <li class="nav-item">
                             <a class="nav-link menu__list-link" href="blog.html">blog</a>
-                        </li>
+                        </li> -->
                         <li class="nav-item">
-                            <a class="nav-link menu__list-link" href="contact.html">contact</a>
+                            <a class="nav-link menu__list-link" href="contact.html">Kontak</a>
                         </li>
                     </ul>
                     <!-- <div class="d-sm-flex d-lg-block gap-4 mt-3 mt-lg-0">
