@@ -1,0 +1,9 @@
+---
+deployment:
+      tasks:
+        - export DEPLOYPATH=/home/sury7596/public_html/nahra.id  # Add /<app_folder> if required
+        - /bin cp * $DEPLOYPATH                           #copy all from root 
+        - /bin cp /<sub_folder>/* $DEPLOYPATH             #copy all from sub folder root
+        - /bin/cp -r * $DEPLOYPATH                        #copy all recursively to $DEPLOYPATH
+        
+        
