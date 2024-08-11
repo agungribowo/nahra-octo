@@ -42,15 +42,12 @@
                         <li class="nav-item dropdown">
                             <a class="nav-item menu__list-link--active" href="#"
                                 id="navbarDrop" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                Home
-                            </a>                            
+                                Beranda
+                            </a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link menu__list-link" href="about.html">Tentang</a>
                         </li>
-                        <!-- <li class="nav-item">
-                            <a class="nav-link menu__list-link" href="cases.html">Layanan</a>
-                        </li> -->
                         <li class="nav-item dropdown">
                             <a class="nav-link dropdown-toggle menu__list-link" href="home-1.html#" id="navbarDropdown"
                                 role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -68,11 +65,17 @@
                                 <li><a class="dropdown-item" href="error.html">error</a></li>
                             </ul>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link menu__list-link" href="cases.html">Rekrutmen</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link menu__list-link" href="cases.html">Pelatihan</a>
+                        </li>
                         <!-- <li class="nav-item">
                             <a class="nav-link menu__list-link" href="blog.html">blog</a>
                         </li> -->
                         <li class="nav-item">
-                            <a class="nav-link menu__list-link" href="contact.html">Kontak</a>
+                            <a class="nav-link menu__list-link" href="<?php echo "contact.php"; ?>">Kontak</a>
                         </li>
                     </ul>
                     <!-- <div class="d-sm-flex d-lg-block gap-4 mt-3 mt-lg-0">
