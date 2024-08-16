@@ -32,7 +32,7 @@
                 <p class="global__desc footer__desc">Jl. Sirojulmunir Rt 01 Rw 01 No. 18 Kel. Jatisari Kec.
                     Jatiasih Kota Bekasi Jawa Barat 17426
                 </p>
-                <div class="footer__social">
+                <!-- <div class="footer__social">
                     <ul class="footer__social-ul">
                         <li>
                             <a class="footer__social-link" href="https://www.facebook.com/"><i
@@ -51,7 +51,7 @@
                                     class="fa-brands fa-twitter"></i></a>
                         </li>
                     </ul>
-                </div>
+                </div> -->
             </div>
             <div class="col-12 col-md-6 col-lg-4 col-xl-2 d-md-flex justify-content-center my-5 my-md-0">
                 <div class="">
