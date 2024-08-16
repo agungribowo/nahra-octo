@@ -10,10 +10,11 @@
                             </h4>
                         </div>
                         <h1 class="global__title global__title-dark">Together We Realize Prosperity.</h1>
-                        <p class="global__desc">Crowdfunding is a way to raise money for an individual or organization
-                            by collecting donations through family, friends
-                            strangers and more.</p>
-                        <a href="donate.html" class="global__btn">Get Started
+                        <p class="global__desc">Kami dari PT. Nahra Sejahtera Bersama berharap dapat menghubungkan kandidat yang sesuai 
+                            dengan kriteria perusahaan. Sehingga kami sebagai warga Negara Republik Indonesia bisa berguna bagi 
+                            masyarakat dan negara kita yang tercinta.
+                        </p>                        
+                        <a href="assets/Company Profile PT. Nahra.pdf" class="global__btn">Portfolio
                             <i class="fa-solid fa-arrow-up-long global__btn-arrow"></i>
                         </a>
                     </div>
@@ -55,19 +56,19 @@
                         <div class="collection__list-icon">
                             <img class="collection__list-icon--img" src="assets/img/box.svg" alt="icon">
                         </div>
-                        <p class="collection__text"><span class="num__counter">6500</span>+ Donation</p>
+                        <p class="collection__text"><span class="num__counter">600</span>+ Kandidat</p>
                     </div>
                     <div class="collection__list-items">
                         <div class="collection__list-icon">
                             <img class="collection__list-icon--img" src="assets/img/dollar-s.svg" alt="icon">
                         </div>
-                        <p class="collection__text">$<span class="num__counter">60</span>k+ Found Raised</p>
+                        <p class="collection__text"><span class="num__counter">20</span>+ Mitra</p>
                     </div>
                     <div class="collection__list-items">
                         <div class="collection__list-icon">
                             <img class="collection__list-icon--img" src="assets/img/hands.svg" alt="icon">
                         </div>
-                        <p class="collection__text"><span class="num__counter">250</span>+ Volunteer</p>
+                        <p class="collection__text"><span class="num__counter">250</span>+ Karyawan</p>
                     </div>
                     <div class="collection__list-items">
                         <div class="collection__list-icon">
@@ -92,20 +93,23 @@
                     </div>
                 </div>
                 <div class="col-12 col-md-9 col-lg-6" data-aos="fade-left" data-aos-duration="1000">
-                    <h3 class="global__text">about us</h3>
+                    <h3 class="global__text">Tentang Kami</h3>
                     <h2 class="donation__heading global__heading">
-                        We belive your donation will help to survive people
+                        Together We Realize Prosperity.
                     </h2>
-                    <p class="donation__desc global__desc mb-3">The evidence is clear. The ability to learn to read is
-                        the
-                        single most significant factor to allow a child to reach
-                        their full potential. American, Latino, ethnic minorities and low-income backgrounds.</p>
-                    <p class="donation__desc global__desc m-0">At USA Reads, we strive to close the literacy gap and see
-                        kids discover a love and habit of reading. We are specifically
-                        focused on children from African American, Latino, ethnic minorities and low-income backgrounds.
+                    <p class="donation__desc global__desc mb-3">PT. Nahra Sejahtera Bersama ( NSB ) adalah sebuah perusahaan yang bergerak di
+                        bidang Aktivitas Penyeleksian dan Penempatan Tenaga Kerja Dalam Negeri,
+                        Penyediaan Sumber Daya Manusia dan Manajemen Fungsi Sumber Daya
+                        Manusia, Jasa Penyelenggaraan Event Khusus ( Special Event ), Aktivitas Penyedia
+                        Gabungan Jasa Penunjang Fasilitas, Aktivitas Keamanan Swasta, Perdagangan
+                        Besar Berbagai Macam Barang, dan Kedai Makanan.</p>
+                    <p class="donation__desc global__desc m-0">PT. Nahra Sejahtera Bersama secara resmi telah berdiri selama 5 tahun, tepatnya
+                        pada tanggal 04 Oktober 2019. Dengan Pengalaman yang kami miliki selama 5 tahun kebelakang, 
+                        kami yakin bahwa perusahaan kami mampu menyajikan
+                        pelayanan terbaik untuk pelanggannya.
                     </p>
                     <div class="mt-5">
-                        <a href="donate.html" class="donation__btn global__btn">donate now</a>
+                        <a href="assets/Company Profile PT. Nahra.pdf" class="donation__btn global__btn">Tentang Kami</a>
                     </div>
                 </div>
             </div>
@@ -119,20 +123,20 @@
             <div class="row">
                 <div class="col-12 col-md-9 col-lg-6 text-center m-auto service__m" data-aos="fade-down"
                     data-aos-duration="1000">
-                    <h2 class="global__heading m-0">Our Features Services
+                    <h2 class="global__heading m-0">Layanan Kami
                     </h2>
                     <p class="about__desc global__desc mt-3 mb-0">We believe that we can save more life with you.
                     </p>
                 </div>
             </div>
             <div class="row">
-                <div class="col-md-6 pe-md-4">
+                <div class="col-md-4 pe-md-4">
                     <div class="service__card global__white" data-aos="fade-left" data-aos-duration="1000">
                         <div class="global__icon global__icon-white service__card-icon2">
                             <img src="assets/img/donation-2.svg" alt="image" style="height: 32px; width: 32px;">
                         </div>
                         <div class="">
-                            <h3 class="service__card-heading global__heading">Give Donation</h3>
+                            <h3 class="service__card-heading global__heading">Layanan Jasa</h3>
                             <p class="service__card-desc global__desc mt-3 mb-0">The evidence is clear. The ability
                                 to
                                 learn to
@@ -141,13 +145,28 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-6 ps-md-4">
+                <div class="col-md-4 ps-md-4">
                     <div class="service__card global__white" data-aos="fade-right" data-aos-duration="1000">
                         <div class="global__icon global__icon-white service__card-icon2">
                             <img src="assets/img/hands.svg" alt="image" style="height: 32px; width: 32px;">
                         </div>
                         <div class="">
-                            <h3 class="service__card-heading global__heading">Become Volunteer</h3>
+                            <h3 class="service__card-heading global__heading">Rekrutmen</h3>
+                            <p class="service__card-desc global__desc mt-3 mb-0">The evidence is clear. The ability
+                                to
+                                learn to
+                                read is single significant factor potential. Became a volunteer people
+                                and the community.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 ps-md-4">
+                    <div class="service__card global__white" data-aos="fade-right" data-aos-duration="1000">
+                        <div class="global__icon global__icon-white service__card-icon2">
+                            <img src="assets/img/hands.svg" alt="image" style="height: 32px; width: 32px;">
+                        </div>
+                        <div class="">
+                            <h3 class="service__card-heading global__heading">Pelatihan</h3>
                             <p class="service__card-desc global__desc mt-3 mb-0">The evidence is clear. The ability
                                 to
                                 learn to
@@ -688,94 +707,7 @@
     </div>
     <!-- Team END -->
 
-    <!-- News END -->
-    <div class="news global__py pt-0">
-        <div class="container p-sm-0">
-            <div class="row">
-                <!-- Left Side -->
-                <div class="col-xl-8 d-flex d-xl-block justify-content-center mb-4 mb-xl-0">
-                    <div class="news__card">
-                        <div class="news__card-img">
-                            <a href="blog-details.html">
-                                <img class="img-fluid news__card-img--round" src="assets/img/news-img-1.png"
-                                    alt="image">
-                            </a>
-                            <h4 class="news__card-tag">Education</h4>
-                        </div>
-                        <div class="card-body px-0 py-2 pe-sm-4">
-                            <div class="">
-                                <span class="news__card-span">October 25, 2023</span>
-                            </div>
-                            <div class="">
-                                <a href="blog-details.html" class="news__card-title">
-                                    Everything You Need to Know About Crowdfunding for Kids With Cancer</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!-- Right Side -->
-                <div class="col-xl-4 d-sm-flex d-xl-block justify-content-center gap-5">
-                    <div class="news__card mb-4 mb-sm-0 mb-lg-4">
-                        <div class="news__card-img">
-                            <a href="blog-details.html">
-                                <img class="img-fluid" src="assets/img/news-img-2.png" alt="image">
-                            </a>
-                            <h4 class="news__card-tag">health</h4>
-                        </div>
-                        <div class="card-body px-0 py-2">
-                            <div class="">
-                                <span class="news__card-span">October 25, 2023</span>
-                            </div>
-                            <div class="">
-                                <a href="blog-details.html" class="news__card-title">The study changed the health of a
-                                    generation</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="news__card">
-                        <div class="news__card-img">
-                            <a href="blog-details.html">
-                                <img class="img-fluid" src="assets/img/news-img-3.png" alt="image">
-                            </a>
-                            <h4 class="news__card-tag">Donation</h4>
-                        </div>
-                        <div class="card-body px-0 py-2">
-                            <div class="">
-                                <span class="news__card-span">October 25, 2023</span>
-                            </div>
-                            <div class="">
-                                <a href="blog-details.html" class="news__card-title">How to Write Your GoFundMe
-                                    Fundraiser Story</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- News END -->
-
-    <!-- Join_US START -->
-    <div class="join">
-        <div class="container p-sm-0">
-            <div class="row">
-                <div class="card join__card">
-                    <img src="assets/img/BG-Element.png" class="img-fluid join__card-img" alt="image">
-                    <div class="card-img-overlay join__card-layer">
-                        <div class="col-11 col-md-7">
-                            <h3 class="join__text global__text">Become a volenteer</h3>
-                            <h2 class="join__heading global__heading">Join Your hand with us for a better life and
-                                future
-                            </h2>
-                            <button class="join__card-layer--btn global__btn">Discover More</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Join_US END -->
-
+ 
     <?php include ("footer.php"); ?>
 
     <?php include ("js.php"); ?>

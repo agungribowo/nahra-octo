@@ -1,3 +1,26 @@
+<!--  Join_US START -->
+
+<div class="join">
+    <div class="container p-sm-0">
+        <div class="row">
+            <div class="card join__card">
+                <img src="assets/img/BG-Element.png" class="img-fluid join__card-img" alt="image">
+                <div class="card-img-overlay join__card-layer">
+                    <div class="col-11 col-md-7">
+                        <h3 class="join__text global__text">Bergabung Bersama Kami</h3>
+                        <h2 class="join__heading global__heading">Untuk kehidupan yang lebih baik dan masa depan
+                        </h2>
+                        <a href="assets/Company Profile PT. Nahra.pdf" class="join__card-layer--btn global__btn" download>Temukan Lebih Banyak</a>
+                        <!-- <button class="join__card-layer--btn global__btn">Temukan Lebih Banyak</button> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--  Join_US END -->
+
 <!-- Footer START -->
 <div class="footer">
     <div class="container p-sm-0">

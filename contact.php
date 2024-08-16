@@ -162,37 +162,12 @@
 
   <div class="contact__map">
       <iframe class="w-100"
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3649.4956336954656!2d90.36980847512216!3d23.836527785464774!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755c1cb3b7d94db%3A0xa1df58d67a2ce274!2sUi%20Barn!5e0!3m2!1sen!2sbd!4v1692610804504!5m2!1sen!2sbd"
+          src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15862.080703934438!2d106.958388!3d-6.3265694!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69935e18c2b1db%3A0xf5855345cfc89e53!2sPT.%20NAHRA%20SEJAHTERA%20BERSAMA!5e0!3m2!1sen!2sid!4v1723781519412!5m2!1sen!2sid"
           width="600" height="785" style="border:0;" allowfullscreen="" loading="lazy"
           referrerpolicy="no-referrer-when-downgrade"></iframe>
   </div>
 
   <!--  Map END -->
-
-  <!--  Join_US START -->
-
-  <div class="join">
-      <div class="container p-sm-0">
-          <div class="row">
-              <div class="card join__card">
-                  <img src="assets/img/BG-Element.png" class="img-fluid join__card-img" alt="image">
-                  <div class="card-img-overlay join__card-layer">
-                      <div class="col-11 col-md-7">
-                          <h3 class="join__text global__text">Become a volenteer</h3>
-                          <h2 class="join__heading global__heading">Join Your hand with us for a better life and
-                              future
-                          </h2>
-                          <button class="join__card-layer--btn global__btn">Discover More</button>
-                      </div>
-                  </div>
-              </div>
-          </div>
-      </div>
-  </div>
-
-  <!--  Join_US END -->
-
-
 
   <?php include("footer.php"); ?>
 

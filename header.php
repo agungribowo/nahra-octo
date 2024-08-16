@@ -45,28 +45,14 @@
                         <li class="nav-item">
                             <a class="nav-link menu__list-link" href="<?php echo "about.php"; ?>">Tentang</a>
                         </li>
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle menu__list-link" href="<?php echo "index.php"; ?>#" id="navbarDropdown"
-                                role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                Layanan
-                            </a>
-                            <ul class="dropdown-menu menu__list-dropdown--ul" aria-labelledby="navbarDropdown">
-                                <li><a class="dropdown-item" href="single-cases.html">single cases</a></li>
-                                <li><a class="dropdown-item" href="donate.html">donate</a></li>
-                                <li><a class="dropdown-item" href="blog-details.html">blog details</a></li>
-                                <li><a class="dropdown-item" href="faqs.html">faqs</a></li>
-                                <li><a class="dropdown-item" href="gallery.html">gallery</a></li>
-                                <li><a class="dropdown-item" href="team.html">team</a></li>
-                                <li><a class="dropdown-item" href="testimonials.html">testimonials</a></li>
-                                <li><a class="dropdown-item" href="volunteer.html">volunteer</a></li>
-                                <li><a class="dropdown-item" href="error.html">error</a></li>
-                            </ul>
+                        <li class="nav-item">
+                            <a class="nav-link menu__list-link" href="<?php echo "about.php"; ?>">Layanan</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link menu__list-link" href="cases.html">Rekrutmen</a>
+                            <a class="nav-link menu__list-link" href="<?php echo "recruitment.php"; ?>">Rekrutmen</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link menu__list-link" href="cases.html">Pelatihan</a>
+                            <a class="nav-link menu__list-link" href="<?php echo "training.php"; ?>">Pelatihan</a>
                         </li>
                         <!-- <li class="nav-item">
                             <a class="nav-link menu__list-link" href="blog.html">blog</a>

@@ -598,29 +598,6 @@
 </div>
 <!-- Blog END -->
 
-<!-- Join_US START -->
-<div class="join">
-    <div class="container p-sm-0">
-        <div class="row">
-            <div class="card join__card">
-                <img src="assets/img/BG-Element.png" class="img-fluid join__card-img" alt="image">
-                <div class="card-img-overlay join__card-layer">
-                    <div class="col-11 col-md-7">
-                        <h3 class="join__text global__text">Become a volenteer</h3>
-                        <h2 class="join__heading global__heading">Join Your hand with us for a better life and
-                            future
-                        </h2>
-                        <button class="join__card-layer--btn global__btn">Discover More</button>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- Join_US END -->
-
-
-
 
 <?php include("footer.php"); ?>
 
