@@ -30,7 +30,7 @@
         <!-- Navbar START -->
         <nav class="navbar navbar-expand-lg navbar-light global__transparent menu menu__scroll">
             <div class="container p-sm-0">
-                <a class="navbar-brand menu__logo p-0 m-0" href="index.html"><img class="menu__logo-img"
+                <a class="navbar-brand menu__logo p-0 m-0" href="<?php echo "index.php"; ?>"><img class="menu__logo-img"
                         src="assets/img/Logo.png" alt="logo"></a>
                 <button class="navbar-toggler menu__toggle" type="button" data-bs-toggle="collapse"
                     data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
@@ -39,17 +39,14 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav m-auto menu__list my-3 my-lg-0">
-                        <li class="nav-item dropdown">
-                            <a class="nav-item menu__list-link--active" href="#"
-                                id="navbarDrop" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                                Beranda
-                            </a>
+                        <li class="nav-item">
+                            <a class="nav-item menu__list-link" href="<?php echo "index.php"; ?>">Beranda</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link menu__list-link" href="about.html">Tentang</a>
+                            <a class="nav-link menu__list-link" href="<?php echo "about.php"; ?>">Tentang</a>
                         </li>
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle menu__list-link" href="home-1.html#" id="navbarDropdown"
+                            <a class="nav-link dropdown-toggle menu__list-link" href="<?php echo "index.php"; ?>#" id="navbarDropdown"
                                 role="button" data-bs-toggle="dropdown" aria-expanded="false">
                                 Layanan
                             </a>

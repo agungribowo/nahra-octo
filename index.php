@@ -9,8 +9,7 @@
                             <h4 class="global__rise">PT Nahra Sejahtera Bersama
                             </h4>
                         </div>
-                        <h1 class="global__title global__title-dark">Help the people make big changes and help this
-                            world.</h1>
+                        <h1 class="global__title global__title-dark">Together We Realize Prosperity.</h1>
                         <p class="global__desc">Crowdfunding is a way to raise money for an individual or organization
                             by collecting donations through family, friends
                             strangers and more.</p>
