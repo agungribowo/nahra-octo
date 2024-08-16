@@ -6,7 +6,7 @@
                     <div class="col-12 col-lg-6">
                         <div class="d-flex align-items-center">
                             <img class="hero__two-i" src="assets/img/8start.svg" alt="icon">
-                            <h4 class="global__rise">Raise your Hand to the right place
+                            <h4 class="global__rise">PT Nahra Sejahtera Bersama
                             </h4>
                         </div>
                         <h1 class="global__title global__title-dark">Help the people make big changes and help this
@@ -779,4 +779,4 @@
 
     <?php include ("footer.php"); ?>
 
-    <?php inlcude ("js.php"); ?>
+    <?php include ("js.php"); ?>
