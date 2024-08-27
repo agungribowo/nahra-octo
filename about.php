@@ -99,8 +99,6 @@
                 </p>
             </div>
         </div>
-
-
     </div>
 </div>
 <!-- Team END -->
@@ -147,7 +145,7 @@
                 <div class="">
                     <div class="testimonial__card">
                         <div class="">
-                            <img class="img-fluid" src="assets/img/1-44.png">                            
+                            <img class="img-fluid" src="assets/img/1-44.png">
                         </div>
                     </div>
                 </div>
@@ -157,6 +155,25 @@
 </div>
 <!-- Testimonial END -->
 
+<!-- Team START -->
+<div class="team global__py pt-0">
+    <div class="container p-sm-0">
+        <div class="row">
+            <div class="col-12 col-md-9 col-lg-6 text-center m-auto" data-aos="fade-down" data-aos-duration="1000">
+                <h3 class="global__heading">Struktur Organisasi</h3>
+                <div class="">
+                    <div class="card">
+                        <div class="">
+                            <img class="img-fluid" src="assets/img/struktur-nsb.png" alt="struktur">
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Team END -->
 
 <?php include("footer.php"); ?>
 

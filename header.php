@@ -46,7 +46,7 @@
                             <a class="nav-link menu__list-link" href="<?php echo "about.php"; ?>">Tentang</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link menu__list-link" href="<?php echo "about.php"; ?>">Layanan</a>
+                            <a class="nav-link menu__list-link" href="<?php echo "services.php"; ?>">Layanan</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link menu__list-link" href="<?php echo "recruitment.php"; ?>">Rekrutmen</a>
