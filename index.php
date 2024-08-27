@@ -54,25 +54,25 @@
             <div class="collection__list">
                 <div class="collection__list-items">
                     <div class="collection__list-icon">
-                        <img class="collection__list-icon--img" src="assets/img/box.svg" alt="icon">
+                        <img class="collection__list-icon--img" src="assets/img/employee.png" alt="icon">
                     </div>
                     <p class="collection__text"><span class="num__counter">600</span>+ Kandidat</p>
                 </div>
                 <div class="collection__list-items">
                     <div class="collection__list-icon">
-                        <img class="collection__list-icon--img" src="assets/img/dollar-s.svg" alt="icon">
+                        <img class="collection__list-icon--img" src="assets/img/partner.png" alt="icon">
                     </div>
                     <p class="collection__text"><span class="num__counter">20</span>+ Mitra</p>
                 </div>
                 <div class="collection__list-items">
                     <div class="collection__list-icon">
-                        <img class="collection__list-icon--img" src="assets/img/hands.svg" alt="icon">
+                        <img class="collection__list-icon--img" src="assets/img/employee.png" alt="icon">
                     </div>
                     <p class="collection__text"><span class="num__counter">250</span>+ Karyawan</p>
                 </div>
                 <div class="collection__list-items">
                     <div class="collection__list-icon">
-                        <img class="collection__list-icon--img" src="assets/img/donation-2.svg" alt="icon">
+                        <img class="collection__list-icon--img" src="assets/img/project.png" alt="icon">
                     </div>
                     <p class="collection__text"><span class="num__counter">110</span>+ Project</p>
                 </div>
@@ -133,49 +133,48 @@
             <div class="col-md-4 pe-md-4">
                 <div class="service__card global__white" data-aos="fade-left" data-aos-duration="1000">
                     <div class="global__icon global__icon-white service__card-icon2">
-                        <img src="assets/img/donation-2.svg" alt="image" style="height: 32px; width: 32px;">
+                        <img src="assets/img/engineers.png" alt="image" style="height: 32px; width: 32px;">
                     </div>
                     <div class="">
-                        <h3 class="service__card-heading global__heading">Penyeleksian dan Penempatan Tenaga Kerja</h3>
+                        <h3 class="service__card-heading global__heading">Penyeleksian dan Penempatan Kerja</h3>
                     </div>
                 </div>
             </div>
             <div class="col-md-4 ps-md-4">
                 <div class="service__card global__white" data-aos="fade-right" data-aos-duration="1000">
                     <div class="global__icon global__icon-white service__card-icon2">
-                        <img src="assets/img/hands.svg" alt="image" style="height: 32px; width: 32px;">
+                        <img src="assets/img/requirements.png" alt="image" style="height: 32px; width: 32px;">
                     </div>
                     <div class="">
-                        <h3 class="service__card-heading global__heading">Manajemen Fungsi Sumber Daya Manusia</h3>
+                        <h3 class="service__card-heading global__heading">Manajemen Fungsi SDM</h3>
                     </div>
                 </div>
             </div>
             <div class="col-md-4 ps-md-4">
                 <div class="service__card global__white" data-aos="fade-right" data-aos-duration="1000">
                     <div class="global__icon global__icon-white service__card-icon2">
-                        <img src="assets/img/hands.svg" alt="image" style="height: 32px; width: 32px;">
+                        <img src="assets/img/event.png" alt="image" style="height: 32px; width: 32px;">
                     </div>
                     <div class="">
                         <h3 class="service__card-heading global__heading">Penyelenggaraan Event Khusus</h3>
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="row">
+
             <div class="col-md-4 pe-md-4">
                 <div class="service__card global__white" data-aos="fade-left" data-aos-duration="1000">
                     <div class="global__icon global__icon-white service__card-icon2">
-                        <img src="assets/img/donation-2.svg" alt="image" style="height: 32px; width: 32px;">
+                        <img src="assets/img/delivery-box.png" alt="image" style="height: 32px; width: 32px;">
                     </div>
                     <div class="">
-                        <h3 class="service__card-heading global__heading">Perdagangan Besar Berbagai Macam Barang</h3>
+                        <h3 class="service__card-heading global__heading">Perdagangan Besar</h3>
                     </div>
                 </div>
             </div>
             <div class="col-md-4 ps-md-4">
                 <div class="service__card global__white" data-aos="fade-right" data-aos-duration="1000">
                     <div class="global__icon global__icon-white service__card-icon2">
-                        <img src="assets/img/hands.svg" alt="image" style="height: 32px; width: 32px;">
+                        <img src="assets/img/security.png" alt="image" style="height: 32px; width: 32px;">
                     </div>
                     <div class="">
                         <h3 class="service__card-heading global__heading">Keamanan Swasta</h3>
@@ -185,7 +184,7 @@
             <div class="col-md-4 ps-md-4">
                 <div class="service__card global__white" data-aos="fade-right" data-aos-duration="1000">
                     <div class="global__icon global__icon-white service__card-icon2">
-                        <img src="assets/img/hands.svg" alt="image" style="height: 32px; width: 32px;">
+                        <img src="assets/img/stall.png" alt="image" style="height: 32px; width: 32px;">
                     </div>
                     <div class="">
                         <h3 class="service__card-heading global__heading">Kedai Makanan</h3>
@@ -196,7 +195,6 @@
     </div>
 </div>
 <!-- Service END  -->
-
 
 <?php include("footer.php"); ?>
 
