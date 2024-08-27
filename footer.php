@@ -10,7 +10,7 @@
                         <h3 class="join__text global__text">Bergabung Bersama Kami</h3>
                         <h2 class="join__heading global__heading">Untuk kehidupan yang lebih baik dan masa depan
                         </h2>
-                        <a href="assets/Company Profile PT. Nahra.pdf" class="join__card-layer--btn global__btn" download>Temukan Lebih Banyak</a>
+                        <a href="#" class="join__card-layer--btn global__btn" download>Temukan Lebih Banyak</a>
                         <!-- <button class="join__card-layer--btn global__btn">Temukan Lebih Banyak</button> -->
                     </div>
                 </div>

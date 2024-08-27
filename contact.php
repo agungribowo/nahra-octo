@@ -45,8 +45,7 @@
                           </div>
                           <div class="">
                               <h4 class="social__text">Alamat</h4>
-                              <p class="social__number">Jl. Sirojulmunir Rt 01 Rw 01 No. 18 Kel. Jatisari Kec.
-                                  Jatiasih Kota Bekasi Jawa Barat 17426</p>
+                              <p class="social__number">Jl. Sultan Ageng Tirtayasa No.7 Blok F1, RT.003/RW.006, Marga Mulya, Kec. Bekasi Utara, Kota Bks, Jawa Barat 17142</p>
                           </div>
                       </div>
                   </div>

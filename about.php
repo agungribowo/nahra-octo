@@ -67,11 +67,11 @@
                     juga siap memberikan pelayanan terbaik kami untuk client maupun calon client.
                 </p>
 
-                <div class="donation__mt">
+                <!-- <div class="donation__mt">
                     <div class="">
                         <a href="donate.html" class="donation__btn global__btn m-0">donate now</a>
                     </div>                   
-                </div>
+                </div> -->
             </div>
             <!-- <div class="col-6 d-none d-lg-block position-relative" data-aos="fade-left" data-aos-duration="1000">
                 <div class="donation__img d-flex justify-content-center">
@@ -90,119 +90,17 @@
 <div class="team global__py pt-0">
     <div class="container p-sm-0">
         <div class="row">
-            <div class="col-12 col-md-9 col-lg-6 text-center m-auto" data-aos="fade-down" data-aos-duration="1000">
-                <h3 class="global__text">our team</h3>
-                <h2 class="global__heading">Our Expert Volunteer
-                </h2>
+            <div class="col-12 col-md-9 col-lg-6 text-center m-auto" data-aos="fade-down" data-aos-duration="1000">               
+                <h3 class="global__heading">Misi Perusahaan</h3>
+                <p>Menjadi Mitra Perusahaan Yang Professional, Sehingga Client Dapat Berkonsentrasi Dalam Menjalankan Bisnisnya
+                </p>
+                <h3 class="global__heading">Visi Perusahaan</h3>
+                <p>Menjadi Perusahaan yang berkembang dan bermanfaat untuk memenuhi kebutuhan dan kesejahteraan masyarakat, bangsa dan negara.
+                </p>
             </div>
         </div>
 
-        <div class="team__grid">
-            <!-- User 01 -->
-            <div class="team__card">
-                <div class="team__card-head">
-                    <img class="img-fluid" src="assets/img/user-1.png" alt="user image">
-                    <div class="team__card-head--social">
-                        <ul class="">
-                            <li><a class="team__card-head--link" href="https://www.facebook.com/"><i
-                                        class="fa-brands fa-facebook"></i></a>
-                            </li>
-                            <li><a class="team__card-head--link" href="https://linkedin.com"><i
-                                        class="fa-brands fa-linkedin-in"></i></a>
-                            </li>
-                            <li><a class="team__card-head--link" href="https://www.instagram.com"><i
-                                        class="fa-brands fa-instagram"></i></a>
-                            </li>
-                            <li><a class="team__card-head--link" href="https://twitter.com"><i
-                                        class="fa-brands fa-twitter"></i></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="">
-                    <a href="about.html#" class="team__user">Leslie Alexander</a>
-                    <p class="team__cate">Volunteer</p>
-                </div>
-            </div>
-            <!-- User 02 -->
-            <div class="team__card">
-                <div class="team__card-head">
-                    <img class="img-fluid" src="assets/img/user-2.png" alt="user image">
-                    <div class="team__card-head--social">
-                        <ul class="">
-                            <li><a class="team__card-head--link" href="https://www.facebook.com/"><i
-                                        class="fa-brands fa-facebook"></i></a>
-                            </li>
-                            <li><a class="team__card-head--link" href="https://linkedin.com"><i
-                                        class="fa-brands fa-linkedin-in"></i></a>
-                            </li>
-                            <li><a class="team__card-head--link" href="https://www.instagram.com"><i
-                                        class="fa-brands fa-instagram"></i></a>
-                            </li>
-                            <li><a class="team__card-head--link" href="https://twitter.com"><i
-                                        class="fa-brands fa-twitter"></i></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="">
-                    <a href="about.html#" class="team__user">Marilyn Ramirez</a>
-                    <p class="team__cate">Volunteer</p>
-                </div>
-            </div>
-            <!-- User 03 -->
-            <div class="team__card">
-                <div class="team__card-head">
-                    <img class="img-fluid" src="assets/img/user-3.png" alt="user image">
-                    <div class="team__card-head--social">
-                        <ul class="">
-                            <li><a class="team__card-head--link" href="https://www.facebook.com/"><i
-                                        class="fa-brands fa-facebook"></i></a>
-                            </li>
-                            <li><a class="team__card-head--link" href="https://linkedin.com"><i
-                                        class="fa-brands fa-linkedin-in"></i></a>
-                            </li>
-                            <li><a class="team__card-head--link" href="https://www.instagram.com"><i
-                                        class="fa-brands fa-instagram"></i></a>
-                            </li>
-                            <li><a class="team__card-head--link" href="https://twitter.com"><i
-                                        class="fa-brands fa-twitter"></i></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="">
-                    <a href="about.html#" class="team__user">Dianne Russell</a>
-                    <p class="team__cate">Volunteer</p>
-                </div>
-            </div>
-            <!-- User 04 -->
-            <div class="team__card">
-                <div class="team__card-head">
-                    <img class="img-fluid" src="assets/img/user-4.png" alt="user image">
-                    <div class="team__card-head--social">
-                        <ul class="">
-                            <li><a class="team__card-head--link" href="https://www.facebook.com/"><i
-                                        class="fa-brands fa-facebook"></i></a>
-                            </li>
-                            <li><a class="team__card-head--link" href="https://linkedin.com"><i
-                                        class="fa-brands fa-linkedin-in"></i></a>
-                            </li>
-                            <li><a class="team__card-head--link" href="https://www.instagram.com"><i
-                                        class="fa-brands fa-instagram"></i></a>
-                            </li>
-                            <li><a class="team__card-head--link" href="https://twitter.com"><i
-                                        class="fa-brands fa-twitter"></i></a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="">
-                    <a href="about.html#" class="team__user">Jenny Wilson</a>
-                    <p class="team__cate">Volunteer</p>
-                </div>
-            </div>
-        </div>
+
     </div>
 </div>
 <!-- Team END -->

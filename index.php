@@ -14,7 +14,7 @@
                             dengan kriteria perusahaan. Sehingga kami sebagai warga Negara Republik Indonesia bisa berguna bagi 
                             masyarakat dan negara kita yang tercinta.
                         </p>                        
-                        <a href="assets/Company Profile PT. Nahra.pdf" class="global__btn">Portfolio
+                        <a href="#" class="global__btn">Daftar
                             <i class="fa-solid fa-arrow-up-long global__btn-arrow"></i>
                         </a>
                     </div>
