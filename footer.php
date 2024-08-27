@@ -29,8 +29,7 @@
                 <a href="index.html">
                     <img class="img-fluid" src="assets/img/logo-footer.png" alt="logo">
                 </a>
-                <p class="global__desc footer__desc">Jl. Sirojulmunir Rt 01 Rw 01 No. 18 Kel. Jatisari Kec.
-                    Jatiasih Kota Bekasi Jawa Barat 17426
+                <p class="global__desc footer__desc">Jl. Sultan Ageng Tirtayasa No.7 Blok F1, RT.003/RW.006, Marga Mulya, Kec. Bekasi Utara, Kota Bks, Jawa Barat 17142
                 </p>
                 <!-- <div class="footer__social">
                     <ul class="footer__social-ul">
