@@ -57,22 +57,22 @@
                     <h4 class="footer__sub">Jelajah</h4>
                     <ul class="footer__list">
                         <li>
-                            <a class="footer__list-item" href="about.html">
+                            <a class="footer__list-item" href="<?php echo "about.php"; ?>">
                                 tentang kami
                             </a>
                         </li>
                         <li>
-                            <a class="footer__list-item" href="home-1.html#">
+                            <a class="footer__list-item" href="<?php echo "about.php"; ?>">
                                 pages
                             </a>
                         </li>
                         <li>
-                            <a class="footer__list-item" href="blog.html">
+                            <a class="footer__list-item" href="<?php echo "about.php"; ?>">
                                 blog
                             </a>
                         </li>
                         <li>
-                            <a class="footer__list-item" href="faqs.html">
+                            <a class="footer__list-item" href="<?php echo "about.php"; ?>">
                                 Privecy & Policy
                             </a>
                         </li>
@@ -84,22 +84,22 @@
                     <h4 class="footer__sub">Donate</h4>
                     <ul class="footer__list">
                         <li>
-                            <a class="footer__list-item" href="donate.html">
+                            <a class="footer__list-item" href="<?php echo "about.php"; ?>">
                                 Give Donation
                             </a>
                         </li>
                         <li>
-                            <a class="footer__list-item" href="volunteer.html">
+                            <a class="footer__list-item" href="<?php echo "about.php"; ?>">
                                 Become Volunteer
                             </a>
                         </li>
                         <li>
-                            <a class="footer__list-item" href="home-1.html#">
+                            <a class="footer__list-item" href="<?php echo "about.php"; ?>">
                                 Child Sponsorship
                             </a>
                         </li>
                         <li>
-                            <a class="footer__list-item" href="donate.html">
+                            <a class="footer__list-item" href="<?php echo "about.php"; ?>">
                                 Other Ways to Give
                             </a>
                         </li>

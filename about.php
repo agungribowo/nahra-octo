@@ -90,7 +90,7 @@
 <div class="team global__py pt-0">
     <div class="container p-sm-0">
         <div class="row">
-            <div class="col-12 col-md-9 col-lg-6 text-center m-auto" data-aos="fade-down" data-aos-duration="1000">               
+            <div class="col-12 col-md-9 col-lg-6 text-center m-auto" data-aos="fade-down" data-aos-duration="1000">
                 <h3 class="global__heading">Misi Perusahaan</h3>
                 <p>Menjadi Mitra Perusahaan Yang Professional, Sehingga Client Dapat Berkonsentrasi Dalam Menjalankan Bisnisnya
                 </p>
@@ -110,8 +110,7 @@
     <div class="container p-sm-0">
         <div class="row">
             <div class="col-12 col-md-9 col-lg-6 text-center m-auto" data-aos="fade-down" data-aos-duration="1000">
-                <h3 class="global__text">Testimonials</h3>
-                <h2 class="global__heading">What people say's about us
+                <h2 class="global__heading">Legalitas
                 </h2>
             </div>
         </div>
@@ -120,155 +119,35 @@
                 <div class="">
                     <div class="testimonial__card">
                         <div class="">
-                            <ul class="testimonial__card-ul">
-                                <li><i class="fa-solid fa-star"></i></li>
-                                <li><i class="fa-solid fa-star"></i></li>
-                                <li><i class="fa-solid fa-star"></i></li>
-                                <li><i class="fa-solid fa-star"></i></li>
-                                <li><i class="fa-solid fa-star"></i></li>
-                            </ul>
-                        </div>
-
-                        <div class="">
-                            <p class="global__desc testimonial__card-desc">Campoal is great for people to
-                                bring
-                                changes to what
-                                they believe in, it’s nice to see
-                                some good morals and common sense
-                                being acknowledge where modern governments etc fail.</p>
-                            <div class="d-flex align-items-center">
-                                <img class="img-fluid" src="assets/img/client-1.png" alt="user">
-                                <div class="ps-3">
-                                    <h4 class="testimonial__card-name">Priscilla Lucas</h4>
-                                    <span class="testimonial__card-type">
-                                        Founder
-                                    </span>
-                                </div>
-                            </div>
+                            <img class="img-fluid" src="assets/img/1-35.png">
                         </div>
                     </div>
                 </div>
                 <div class="">
                     <div class="testimonial__card">
                         <div class="">
-                            <ul class="testimonial__card-ul">
-                                <li><i class="fa-solid fa-star"></i></li>
-                                <li><i class="fa-solid fa-star"></i></li>
-                                <li><i class="fa-solid fa-star"></i></li>
-                                <li><i class="fa-solid fa-star"></i></li>
-                                <li><i class="fa-solid fa-star"></i></li>
-                            </ul>
-                        </div>
-
-                        <div class="">
-                            <p class="testimonial__card-desc global__desc">Campoal is great for people to
-                                bring
-                                changes to what
-                                they believe in, it’s nice to see
-                                some good morals and common sense
-                                being acknowledge where modern governments etc fail.</p>
-                            <div class="d-flex align-items-center">
-                                <img class="img-fluid" src="assets/img/client-2.png" alt="user">
-                                <div class="ps-3">
-                                    <h4 class="testimonial__card-name">Dianne Russell</h4>
-                                    <span class="testimonial__card-type">
-                                        Founder
-                                    </span>
-                                </div>
-                            </div>
+                            <img class="img-fluid" src="assets/img/1-36.png">
                         </div>
                     </div>
                 </div>
                 <div class="">
                     <div class="testimonial__card">
                         <div class="">
-                            <ul class="testimonial__card-ul">
-                                <li><i class="fa-solid fa-star"></i></li>
-                                <li><i class="fa-solid fa-star"></i></li>
-                                <li><i class="fa-solid fa-star"></i></li>
-                                <li><i class="fa-solid fa-star"></i></li>
-                                <li><i class="fa-solid fa-star"></i></li>
-                            </ul>
-                        </div>
-
-                        <div class="">
-                            <p class="global__desc testimonial__card-desc">Campoal is great for people to
-                                bring
-                                changes to what
-                                they believe in, it’s nice to see
-                                some good morals and common sense
-                                being acknowledge where modern governments etc fail.</p>
-                            <div class="d-flex align-items-center">
-                                <img class="img-fluid" src="assets/img/client-1.png" alt="user">
-                                <div class="ps-3">
-                                    <h4 class="testimonial__card-name">Priscilla Lucas</h4>
-                                    <span class="testimonial__card-type">
-                                        Founder
-                                    </span>
-                                </div>
-                            </div>
+                            <img class="img-fluid" src="assets/img/1-40.png">
                         </div>
                     </div>
                 </div>
                 <div class="">
                     <div class="testimonial__card">
                         <div class="">
-                            <ul class="testimonial__card-ul">
-                                <li><i class="fa-solid fa-star"></i></li>
-                                <li><i class="fa-solid fa-star"></i></li>
-                                <li><i class="fa-solid fa-star"></i></li>
-                                <li><i class="fa-solid fa-star"></i></li>
-                                <li><i class="fa-solid fa-star"></i></li>
-                            </ul>
-                        </div>
-
-                        <div class="">
-                            <p class="testimonial__card-desc global__desc">Campoal is great for people to
-                                bring
-                                changes to what
-                                they believe in, it’s nice to see
-                                some good morals and common sense
-                                being acknowledge where modern governments etc fail.</p>
-                            <div class="d-flex align-items-center">
-                                <img class="img-fluid" src="assets/img/client-2.png" alt="user">
-                                <div class="ps-3">
-                                    <h4 class="testimonial__card-name">Dianne Russell</h4>
-                                    <span class="testimonial__card-type">
-                                        Founder
-                                    </span>
-                                </div>
-                            </div>
+                            <img class="img-fluid" src="assets/img/1-43.png">
                         </div>
                     </div>
                 </div>
                 <div class="">
                     <div class="testimonial__card">
                         <div class="">
-                            <ul class="testimonial__card-ul">
-                                <li><i class="fa-solid fa-star"></i></li>
-                                <li><i class="fa-solid fa-star"></i></li>
-                                <li><i class="fa-solid fa-star"></i></li>
-                                <li><i class="fa-solid fa-star"></i></li>
-                                <li><i class="fa-solid fa-star"></i></li>
-                            </ul>
-                        </div>
-
-                        <div class="">
-                            <p class="global__desc testimonial__card-desc">Campoal is great for people to
-                                bring
-                                changes to what
-                                they believe in, it’s nice to see
-                                some good morals and common sense
-                                being acknowledge where modern governments etc fail.</p>
-                            <div class="d-flex align-items-center">
-                                <img class="img-fluid" src="assets/img/client-1.png" alt="user">
-                                <div class="ps-3">
-                                    <h4 class="testimonial__card-name">Priscilla Lucas</h4>
-                                    <span class="testimonial__card-type">
-                                        Founder
-                                    </span>
-                                </div>
-                            </div>
+                            <img class="img-fluid" src="assets/img/1-44.png">                            
                         </div>
                     </div>
                 </div>
@@ -277,167 +156,6 @@
     </div>
 </div>
 <!-- Testimonial END -->
-
-<!-- Blog START -->
-<div class="blog global__py">
-    <div class="container p-sm-0">
-        <div class="row">
-            <div class="col-12 col-md-9 col-lg-6 text-center m-auto" data-aos="fade-down" data-aos-duration="1000">
-                <h3 class="global__text">our blog</h3>
-                <h2 class="global__heading">Checkout latest news
-                </h2>
-            </div>
-        </div>
-        <div class="row">
-            <div class="testimonial__body blog__body">
-                <div class="blog__body-slider">
-                    <div class="card blog__card">
-                        <a href="blog.html">
-                            <img class="img-fluid w-100" src="assets/img/img-4.png" alt="image">
-                        </a>
-                        <div class="card-body px-4">
-                            <div class="d-flex justify-content-between align-items-center mb-3">
-                                <div class="">
-                                    <span class="blog__card-span">Donation</span>
-                                </div>
-                                <hr class="blog__card-line">
-                                <div class="">
-                                    <span class="blog__card-span">October 25, 2023</span>
-                                </div>
-                            </div>
-                            <div class="">
-                                <a href="blog.html" class="blog__title">4 Steps to Take on Your Next
-                                    Giving
-                                    Tuesday</a>
-                                <p class="global__desc blog__desc">consectetur adipisicing elit,
-                                    sed
-                                    do
-                                    eiusmod tempor
-                                    incididunt ut labore et dolore
-                                    magna aliqua. Ut enim ad minim
-                                    veniam.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="card blog__card">
-                        <a href="blog.html">
-                            <img class="img-fluid w-100" src="assets/img/img-5.png" alt="image">
-                        </a>
-                        <div class="card-body px-4">
-                            <div class="d-flex justify-content-between align-items-center mb-3">
-                                <div class="">
-                                    <span class="blog__card-span">Donation</span>
-                                </div>
-                                <hr class="blog__card-line">
-                                <div class="">
-                                    <span class="blog__card-span">October 25, 2023</span>
-                                </div>
-                            </div>
-                            <div class="">
-                                <a href="blog.html" class="blog__title">5 Creative Giving Tuesday
-                                    Nonprofit
-                                    Storytelling</a>
-                                <p class="global__desc blog__desc">consectetur adipisicing elit,
-                                    sed
-                                    do
-                                    eiusmod tempor
-                                    incididunt ut labore et dolore
-                                    magna aliqua. Ut enim ad minim
-                                    veniam.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="card blog__card">
-                        <a href="blog.html">
-                            <img class="img-fluid w-100" src="assets/img/img-6.png" alt="image">
-                        </a>
-                        <div class="card-body px-4">
-                            <div class="d-flex justify-content-between align-items-center mb-3">
-                                <div class="">
-                                    <span class="blog__card-span">Donation</span>
-                                </div>
-                                <hr class="blog__card-line">
-                                <div class="">
-                                    <span class="blog__card-span">October 25, 2023</span>
-                                </div>
-                            </div>
-                            <div class="">
-                                <a href="blog.html" class="blog__title">Tips for Retaining Donors
-                                    After Your
-                                    Giving
-                                    Campaign</a>
-                                <p class="global__desc blog__desc">consectetur adipisicing elit,
-                                    sed
-                                    do
-                                    eiusmod tempor
-                                    incididunt ut labore et dolore
-                                    magna aliqua. Ut enim ad minim
-                                    veniam.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="card blog__card">
-                        <a href="blog.html">
-                            <img class="img-fluid w-100" src="assets/img/img-5.png" alt="image">
-                        </a>
-                        <div class="card-body px-4">
-                            <div class="d-flex justify-content-between align-items-center mb-3">
-                                <div class="">
-                                    <span class="blog__card-span">Donation</span>
-                                </div>
-                                <hr class="blog__card-line">
-                                <div class="">
-                                    <span class="blog__card-span">October 25, 2023</span>
-                                </div>
-                            </div>
-                            <div class="">
-                                <a href="blog.html" class="blog__title">5 Creative Giving Tuesday
-                                    Nonprofit
-                                    Storytelling</a>
-                                <p class="global__desc blog__desc">consectetur adipisicing elit,
-                                    sed
-                                    do
-                                    eiusmod tempor
-                                    incididunt ut labore et dolore
-                                    magna aliqua. Ut enim ad minim
-                                    veniam.</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="card blog__card">
-                        <a href="blog.html">
-                            <img class="img-fluid w-100" src="assets/img/img-4.png" alt="image">
-                        </a>
-                        <div class="card-body px-4">
-                            <div class="d-flex justify-content-between align-items-center mb-3">
-                                <div class="">
-                                    <span class="blog__card-span">Donation</span>
-                                </div>
-                                <hr class="blog__card-line">
-                                <div class="">
-                                    <span class="blog__card-span">October 25, 2023</span>
-                                </div>
-                            </div>
-                            <div class="">
-                                <a href="blog.html" class="blog__title">4 Steps to Take on Your Next
-                                    Giving
-                                    Tuesday</a>
-                                <p class="global__desc blog__desc">consectetur adipisicing elit,
-                                    sed
-                                    do
-                                    eiusmod tempor
-                                    incididunt ut labore et dolore
-                                    magna aliqua. Ut enim ad minim
-                                    veniam.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- Blog END -->
 
 
 <?php include("footer.php"); ?>

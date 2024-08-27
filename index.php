@@ -109,7 +109,7 @@
                         pelayanan terbaik untuk pelanggannya.
                     </p>
                     <div class="mt-5">
-                        <a href="assets/Company Profile PT. Nahra.pdf" class="donation__btn global__btn">Tentang Kami</a>
+                        <a href="<?php echo "about.php"; ?>" class="donation__btn global__btn">Tentang Kami</a>
                     </div>
                 </div>
             </div>
